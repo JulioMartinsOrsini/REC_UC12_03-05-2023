@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\AtividadeCodificacao\bin\Debug\net7.0\AtividadeCodificacao.exe
+C:\Users\admin\Desktop\AtividadeCodificacao\bin\Debug\net7.0\AtividadeCodificacao.deps.json
+C:\Users\admin\Desktop\AtividadeCodificacao\bin\Debug\net7.0\AtividadeCodificacao.runtimeconfig.json
+C:\Users\admin\Desktop\AtividadeCodificacao\bin\Debug\net7.0\AtividadeCodificacao.dll
+C:\Users\admin\Desktop\AtividadeCodificacao\bin\Debug\net7.0\AtividadeCodificacao.pdb
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.AssemblyInfo.cs
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.dll
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\refint\AtividadeCodificacao.dll
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.pdb
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\AtividadeCodificacao.genruntimeconfig.cache
+C:\Users\admin\Desktop\AtividadeCodificacao\obj\Debug\net7.0\ref\AtividadeCodificacao.dll
